@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<stacks>
+    <maya_stacks>
+        <stack001>
+            <tx value="2"/>
+            <ty value="0"/>
+            <tz value="3"/>
+        </stack001>
+        <stack002>
+            <tx value="4.5"/>
+            <ty value="0"/>
+            <tz value="4.5"/>
+        </stack002>
+        <stack003>
+            <tx value="5.5"/>
+            <ty value="1"/>
+            <tz value="5.5"/>
+        </stack003>
+    </maya_stacks>
+</stacks>
